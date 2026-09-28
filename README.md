@@ -21,7 +21,7 @@
 // ===== EDIT THESE TWO LINES BEFORE PUBLISHING =====
 const CONFIG = {
   whatsapp: "", // Example format: 919876543210 (country code + number, no + or spaces)
-  email: ""     // Example: hello@yourbusiness.com
+  email: "raushankumar270827@gmail.com"
 };
 // ==================================================
 document.getElementById('year').textContent = new Date().getFullYear();
